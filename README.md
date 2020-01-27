@@ -9,7 +9,7 @@
   
 ```shell
 $ git clone https://github.com/ianaquino47/And.Digital-GoldenShoe.git
-$ cd And.Digital-GoldenShoeAND_Digital_test
+$ cd And.Digital-GoldenShoe
 ```
 
 ### Setup
