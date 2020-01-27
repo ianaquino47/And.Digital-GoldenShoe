@@ -4,7 +4,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/ianaquino47/AND_Digital_test.git`
+- Clone this repo to your local machine using `https://github.com/ianaquino47/And.Digital-GoldenShoe.git`
 - Navigate to the folder using the terminal.
   
 ```shell
